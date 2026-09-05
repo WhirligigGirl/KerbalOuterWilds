@@ -1,0 +1,126 @@
+Altitudes:
+The Sun				2,000->4,000
+Ember Twin			150m(avg), 199m(high),250m(atm)
+Ash Twin			90m(avg), 123m (high),250m(atm)
+Timber Hearth		250m(grasslands), 173m(crater), 335m(mountain), 380m(atm)
+Attlerock			75m(flats), 30m(crater), 85m(ridge)
+Brittle Hollow		300m(350-256m), 500m atm.
+Hollow's Lantern	90m(avg terrain), 100-85m (lava), 146m(volcano), 73m (lowest)
+Giant's Deep		950m(clouds), 564m(islands), 500m (ocean)
+Dark Bramble		955m-650-480m (ice), 200m (seed)
+Interloper			80-86m (surface), 218m (tail spike)
+The Eye				317m (lowest crater), 380m (lowest terrain), 456m (highest terrain)
+Quantum Moon		70m (sea level), 110m (clouds)
+
+Gravity | Timber Hearth Relative | Earth Relative:
+Sun					100m/ss @ 2000m	| 8.3333gt | 10.19679821ge
+Ember Twin			8m/ss   @ 200m	| 0.6667gt | 0.815743856ge
+Ash Twin			8m/ss   @ 200m	| 0.6667gt | 0.815743856ge
+Timber Hearth		12m/ss  @ 250m	| 1.0000gt | 1.22361578ge
+Attlerock			5m/ss	@ 100m	| 0.417gt  | 0.50983991ge
+Brittle Hollow		10m/ss  @ 300m	| 0.8333gt | 1.01967982ge
+Hollow's Lantern	7m/ss   @ 130m	| 0.583gt  | 0.713775874ge
+Giant's Deep		24.2m/ss@ 900m	| 2.017gt  | 2.46762517ge
+Dark Bramble		5m/ss   @ 650m	| 0.417gt  | 0.50983991ge
+Interloper			5m/ss   @ 110m	| 0.417gt  | 0.50983991ge
+The Eye				30m/ss  @ 300m	| 2.500gt  | 3.05903946ge
+Quantum Moon		5m/ss   @ 110m	| 0.417gt  | 0.50983991ge
+
+Mass | Density (Timber Hearth Relative, computed from gravity and reference radius):
+m = g * r^2 | d = g/r
+Sun					533.333333	| 1.04166667
+Ember Twin			0.42666667	| 0.83333333
+Ash Twin			0.42666667	| 0.83333333
+Timber Hearth		1.00000000	| 1.00000000
+Attlerock			0.06666667	| 1.04166667
+Brittle Hollow		1.20000000	| 0.69444444
+Hollow's Lantern	0.15773333	| 1.12179487
+Giant's Deep		26.1360000	| 0.56018519
+Dark Bramble		2.81666667	| 0.16025641
+Interloper			0.08066667	| 0.94696970
+The Eye				3.60000000	| 2.08333333
+Quantum Moon		0.08066667	| 0.94696970
+
+SMA | Period:
+Ember Twin			5000m		| 111.07s
+Ash Twin			500m		| 55.54s
+Timber Hearth		8593.086m	| 250.25s
+Attlerock			900m		| 103.24s
+Brittle Hollow		11690.891m	| 397.12s
+Hollow's Lantern	1000m		| 114.71s
+Giant's Deep		16457.587m	| 663.28s
+Dark Bramble		20000m		| 888.58s
+Interloper			13246.31m	| 478.95s 
+(Ap: 24100m, Pe: 2392.613m, Ecc: 0.819375087381)
+The Eye				~353593m	| 18 hours (in theory)
+Quantum Moon		6000m		| not given
+
+Planet SMA | Period (Timber Hearth relative units)
+Ember Twin			 0.58186314au | 	0.443y	8361638361638
+Timber Hearth		 1.00000000au | 	1.000y	000000000000
+Brittle Hollow		 1.36049971au | 	1.586y	893106893107
+Interloper			 1.54150791au | 	1.913y	8861138861138 (Ap: 2.80458033m, Pe: 0.278434662, Ecc: 0.819375087381)
+Giant's Deep		 1.91521265au | 	2.650y	4695304695303
+Dark Bramble		 2.32745256au | 	3.550y	769230769231
+The Eye				41.14854663au | 258.900y
+
+Moon SMA | Period (Attlerock relative units)
+Ash Twin			 0.55555556LD   | 0.537mo   9697791553661
+Attlerock			 1.00000000LD	| 1.000mo   0000000000000
+Hollow's Lantern	 1.11111111LD	| 1.111mo   1003487020534
+Quantum Moon		 6.66666667LD	| not given
+
+Sidereal Rotation Period | Timber Hearth Relative:
+Sun					Infinite	|
+Ember Twin			125.66s		| 0.1999936338171632
+Ash Twin			89.76s		| 0.14285714285714285
+Timber Hearth		628.32s		| 1.0
+Attlerock			103.24s 	| 0.16431117901706135
+Brittle Hollow		314.16s 	| 0.5
+Hollow's Lantern	31.42s		| 0.05000636618283677
+Giant's Deep		Infinite	|
+Dark Bramble		Infinite	|
+Interloper			478.95s		| 0.7622708174178762
+The Eye				Infinite	|
+Quantum Moon		Infinite	|
+
+Mass (datamined) | Timber Hearth Relative | Error:
+Sun					400,000,000,000 | 133,333.333333333 | 249.00000016
+Ember Twin			1,600,000		| 		0.533333333 | 0.249999989
+Ash Twin			1,600,000		| 		0.533333333 | 0.249999989
+Timber Hearth		3,000,000		| 		1.000000000 | 0.000000000 (by definition)
+Attlerock			50,000,000????? |		16.66666667 | 248.99998755
+Brittle Hollow		3,000,000		| 		1.000000000 | -0.166666667
+Hollow's Lantern	909,999.9		| 		0.303333333 | 0.923076962
+Giant's Deep		21,780,000		|		7.260000000 | -0.722222222
+Dark Bramble		3,250,000		|		1.083333333 | -1.73333334
+Interloper			550,000			|		0.000183333 | -0.997727277
+The Eye				9,000,000		|		3.000000000 | -0.166666667
+Quantum Moon		550,000			|		0.000183333 | -0.997727277
+
+Template:
+Sun					
+Ember Twin			
+Ash Twin			
+Timber Hearth		
+Attlerock			
+Brittle Hollow		
+Hollow's Lantern	
+Giant's Deep		
+Dark Bramble		
+Interloper			
+The Eye				
+Quantum Moon		
+
+S Sn Sun Sun
+E ET EmT EmTw
+A AT AsT AsTw
+T TH TmH TmHr
+K Ar Att Atlr
+B BH BrH BrHo
+L HL HLa HoLa
+G GD GDp GiDp
+D DB DBr DkBr
+I In Int Itlp
+E Ey Eye EOTU
+Q QM QMn QuMn
