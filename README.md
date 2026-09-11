@@ -1,3 +1,5 @@
+<img width="1950" height="1080" alt="KerbalWilds_Poster_KerbalCaption" src="https://github.com/user-attachments/assets/7bfc24de-1aa2-421f-9142-4bbb7ffc56b9" />
+
 # Kerbal Wilds
 A scaled up version of the solar system from Outer Wilds as a Kopernicus planet mod for Kerbal Space Program. Built by default for Quarter Scale (i.e., 1/4th of Real Solar System, or 2.5x stock KSP scale). This scale is 6,000x larger than the original Outer Wilds system. Heliocentric orbital distances are around 4250000x larger than Outer Wilds. Attlerock and Hollow's Lantern's orbits are scaled up from the original game by only 30,000x. Ember Twin & Ash Twin's separation is to scale with their original counterparts.
 
@@ -25,9 +27,9 @@ In the future there will be dedicated support configs for RSS Scale, Stock KSP S
     * Ash Twin: A ball of sand with some equatorial landmasses.
 * Timber Hearth: Barren desert world with oasis-filled multi-ring impact basins.
     * The Attlerock: A brown-gray moon-like world with its backside blown to smithereens.
-* Brittle Hollow: A low-density rocky planet. Terrain interpretation TBD.
+* Brittle Hollow: A low-density rocky planet with jointed columnar terrain.
     * Hollow's Lantern: A volcanic moon with a molten surface.
-* Giant's Deep: A massive ocean world with swirling green clouds.
+* Giant's Deep: A massive water world with swirling green clouds.
 * Dark Bramble: An ice world with what appears to be creeping space vines.
 * The Interloper: An interstellar comet on an eccentric retrograde orbit.
 
