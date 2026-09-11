@@ -21,15 +21,15 @@ In the future there will be dedicated support configs for RSS Scale, Stock KSP S
 **System Layout**
 * Sun: A K8IV Subgiant, just on the cusp of evolving into a red giant.
 * The Hourglass Twins: Binary system of half-Earth-mass terrestrial planets.
-    * Ember Twin: A planet covered in canyons and mesas. (terrain done)
-    * Ash Twin: A ball of sand with some equatorial landmasses. (terrain done)
-* Timber Hearth: Barren desert world with oasis-filled multi-ring impact basins. (terrain done)
-    * The Attlerock: A brown-gray moon-like world with its backside blown to smithereens. (finished)
-* Brittle Hollow: A low-density rocky planet. Terrain interpretation TBD. (terrain done)
-    * Hollow's Lantern: A volcanic moon with a molten surface. (terrain done)
-* Giant's Deep: A massive ocean world with swirling green clouds. (scaledspace texture done)
-* Dark Bramble: An ice world with what appears to be creeping space vines (terrain done)
-* The Interloper: An interstellar comet on an eccentric retrograde orbit. (currently Minmus template)
+    * Ember Twin: A planet covered in canyons and mesas.
+    * Ash Twin: A ball of sand with some equatorial landmasses.
+* Timber Hearth: Barren desert world with oasis-filled multi-ring impact basins.
+    * The Attlerock: A brown-gray moon-like world with its backside blown to smithereens.
+* Brittle Hollow: A low-density rocky planet. Terrain interpretation TBD.
+    * Hollow's Lantern: A volcanic moon with a molten surface.
+* Giant's Deep: A massive ocean world with swirling green clouds.
+* Dark Bramble: An ice world with what appears to be creeping space vines.
+* The Interloper: An interstellar comet on an eccentric retrograde orbit.
 
 <img width="726" height="737" alt="image" src="https://github.com/user-attachments/assets/b0a15fe5-ce2e-4384-ad4d-c2914aa93cb1" />
 
