@@ -5,7 +5,7 @@ A scaled up version of the solar system from Outer Wilds as a Kopernicus planet 
 
 In the future there will be dedicated support configs for RSS Scale, Stock KSP Scale, and Toy Scale (1/12th stock KSP scale). The original game's tiny scale is infeasible.
 
-**Still in WIP.** *System configuration is subject to change, which can break Principia save files.*
+**Still in WIP.**
 
 **Mod Requirements**
 * Kopernicus and its prerequisites. https://github.com/Kopernicus/Kopernicus
