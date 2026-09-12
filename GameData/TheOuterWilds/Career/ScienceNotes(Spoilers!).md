@@ -49,6 +49,7 @@
 
 # Hollow's Lantern
 * Tidal heating results in powerful volcanism and lava flooding.
+* Volcanism is transient--heat builds up under the crust until it all bursts out at once. During these events, Hollow's Lantern outshines Brittle Hollow.
 * Orbit is decaying, and is within a few tens of thousands of years of beginning to be pulled apart. 
 
 # Dark Bramble
