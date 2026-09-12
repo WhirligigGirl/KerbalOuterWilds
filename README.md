@@ -35,6 +35,25 @@ In the future there will be dedicated support configs for RSS Scale, Stock KSP S
 * Dark Bramble: An ice world with what appears to be creeping space vines.
 * The Interloper: An interstellar comet on an eccentric retrograde orbit.
 
+**F.A.Q.**
+* Are there Outer Wilds spoilers?
+    * The mod does have some minor spoilers for Outer Wilds, but nothing major.
+* Is the QM or the 6th Location implemented?
+    * they are both post-1.0 stretch goals, and will _not_ have the game mechanic that makes it so weird and interesting in the original game.
+* What about the Stranger?
+    * I have an idea for how to do it, but it will not be a celestial body. It is also a post-1.0 stretch goal.
+* How do you do Brittle Hollow and Dark Bramble?
+    * They are implemented as more realistic planets. B.H. is not hollow and Dark Bramble doesn't do what it does in the original game. In particular, Dark Bramble is represented as the unnamed ice planet that pre-dates the Bramble, based on an illustration of the past of the solar system visible in the EOTE DLC which showed the early stages. There are no black holes or wormholes, as they would not be compatible with Principia (which does not allow crafts to teleport).
+* Will there be the sand flow on the Hourglass Twins, or caves on the Ember Twin?
+    * both of those are out of the scope of a KSP planet mod. Actually, if I was making the Realistic Hourglass Twins as a standalone worldbuilding project rather than a KSP mod, I'd represent them as a near-contact binary made of two egg shaped lobes, similar to Rocheworld. I think you could even justify the sand transferring back and forth over the course of the day with some kind of tidal effect from the Sun or the eccentricity of the orbits. Sadly, KSP does not support non-spherical atmospheres, a problem I have been dealing with in KSP modding ever since Whirligig World.
+* Why is Timber Hearth so arid?
+    * The craters are interpreted as multi-ring impact basins, like we see on the Moon and Mercury. These are rimmed by tall mountains, which means that, since all the water has pooled in the lowlands of the craters, almost the entire planet is in a huge rain shadow. The Hearthians don't see their planet as arid, since they exclusively live in the lush Village Basin. Just as how we don't really see our planet as mostly water when we imagine it in our heads, and we named it "earth" instead of "ocean," the Hearthians don't see their planet as mostly desert, and named their world after the forest biome in which they exclusively live. 
+* Will there be alien structures, stations, or spacecrafts?
+    * As a post-1.0 stretch goal, _maybe_. But my feeling is that a KSP mod will never approach the depth of narrative storytelling possible in Outer Wilds, so I won't be attempting to weave an intricate narrative. Maybe a few structures that gesture towards the story. Honestly one problem is I'm just not that good at modelling buildings, and I'm not sure how I'd pull off the specific architectural styling shown in the game.
+* Where's the Interloper's tail?
+    * This is one of the biggest flaws in the mod at present. I don't have the Unity experience required to use ScaledDecorator. I asked R-T-B about adding stock comet FX to celestial bodies, and they said they would look into it.
+    * If you want to contribute a ScaledDecorator comet tail, please do get in touch, I would massively appreciate it.
+
 <img width="726" height="737" alt="image" src="https://github.com/user-attachments/assets/b0a15fe5-ce2e-4384-ad4d-c2914aa93cb1" />
 
 <img width="868" height="786" alt="image" src="https://github.com/user-attachments/assets/bcee15fa-0730-47fa-aa16-38b4fed54a8d" />
