@@ -10,11 +10,11 @@ In the future there will be dedicated support configs for RSS Scale, Stock KSP S
 **Mod Requirements**
 * Kopernicus and its prerequisites. https://github.com/Kopernicus/Kopernicus
 * Kopernicus Expansions. https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/
-* VertexMitchellNetravaliHeightmap. https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
 
 **Bundled Mods**
 * VertexColorMapEmissive by Lt. Duckweed. https://github.com/jamespglaze/VertexColorMapEmissive/
 * Scientific Revolution by StollD. https://github.com/StollD/SciRev
+* VertexMitchellNetravaliHeightmap. https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
 
 **Supported Mods**
 * Principia (highly recommended for realistic orbits around the Hourglass Twins and Hollow's Lantern, as well as axial tilt.) https://github.com/mockingbirdnest/Principia
