@@ -7,9 +7,13 @@ In the future there will be dedicated support configs for RSS Scale, Stock KSP S
 
 **Still in WIP.**
 
-**Mod Requirements**
-* Kopernicus and its prerequisites. https://github.com/Kopernicus/Kopernicus/releases
-* Kopernicus Expansions. https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/
+**Mod Prerequisites**
+* Kopernicus and all of its prerequisites. https://github.com/Kopernicus/Kopernicus/releases
+    * HarmonyKSP. https://github.com/KSPModdingLibs/HarmonyKSP/releases
+    * KSPTextureLoader. https://github.com/Phantomical/KSPTextureLoader/releases
+    * ModularFlightIntegrator. https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/
+    * ModuleManager https://ksp.sarbian.com/jenkins/job/ModuleManager/ (which you probably already have anyway)
+* Kopernicus Expansion. https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/
 
 **Bundled Mods**
 * VertexColorMapEmissive by Lt. Duckweed. https://github.com/jamespglaze/VertexColorMapEmissive
@@ -23,6 +27,7 @@ In the future there will be dedicated support configs for RSS Scale, Stock KSP S
 * Distant Object Enhancement. https://forum.kerbalspaceprogram.com/topic/205063-ksp-131-distant-object-enhancement-doe-l-2217-2026-0626/
 * Kerbal Renamer (for authentic Hearthian names!) https://github.com/KSP-RO/KerbalRenamer/releases/
 * Texture Replacer (highly recommended for custom-built skybox) https://github.com/ducakar/TextureReplacer/releases/
+    * If you want only the Hearthian skin, you will have to manually remove the default TR Kerbal hairstyle skins in GameData/TextureReplacer/Skins/TR.
 
 **System Layout**
 * Sun: A K8IV Subgiant, just on the cusp of evolving into a red giant.
