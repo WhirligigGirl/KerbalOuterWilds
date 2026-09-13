@@ -8,7 +8,6 @@ In the future there will be dedicated support configs for RSS Scale, Stock KSP S
 **Still in WIP.**
 
 **Mod Requirements**
-* KSP Community fixes. https://github.com/KSPModdingLibs/KSPCommunityFixes/releases
 * Kopernicus and its prerequisites. https://github.com/Kopernicus/Kopernicus
 * Kopernicus Expansions. https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/
 
