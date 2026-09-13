@@ -1,4 +1,4 @@
-# Minor spoiler warning for Outer Wilds:
+# Spoiler warning for Outer Wilds, and for this mod!
 
 # Mystery Goo
 * Basically just a set of simple sugars and nutrients, designed to test for life on planetary surfaces.
@@ -52,7 +52,7 @@
 
 # Hollow's Lantern
 * Tidal heating results in powerful volcanism and lava flooding.
-* Volcanism is transient--heat builds up under the crust until it all bursts out at once. During these events, Hollow's Lantern outshines Brittle Hollow.
+* The current temperature is much too high for the amount of tidal heating it receives, therefore the volcanism is transient--heat builds up under the crust until it all bursts out at once. During these events, Hollow's Lantern outshines Brittle Hollow. Hearthians have recorded the variability of Brittle Hollow in the sky over time since antiquity.
 * Orbit is decaying, and is within a few tens of thousands of years of beginning to be pulled apart. 
 
 # Dark Bramble
