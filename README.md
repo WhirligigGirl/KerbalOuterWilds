@@ -8,20 +8,20 @@ In the future there will be dedicated support configs for RSS Scale, Stock KSP S
 **Still in WIP.**
 
 **Mod Requirements**
-* Kopernicus and its prerequisites. https://github.com/Kopernicus/Kopernicus
+* Kopernicus and its prerequisites. https://github.com/Kopernicus/Kopernicus/releases
 * Kopernicus Expansions. https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/
 
 **Bundled Mods**
-* VertexColorMapEmissive by Lt. Duckweed. https://github.com/jamespglaze/VertexColorMapEmissive/
+* VertexColorMapEmissive by Lt. Duckweed. https://github.com/jamespglaze/VertexColorMapEmissive
 * Scientific Revolution by StollD. https://github.com/StollD/SciRev
-* VertexMitchellNetravaliHeightmap. https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap/releases
+* VertexMitchellNetravaliHeightmap. https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap
 
 **Supported Mods**
 * Principia (highly recommended for realistic orbits around the Hourglass Twins and Hollow's Lantern, as well as axial tilt.) https://github.com/mockingbirdnest/Principia
 * EVE Volumetrics Release-5 (Volumetric clouds for almost every planet! Note: Release-3 is _not_ (yet?) supported!) https://www.patreon.com/blackrack/posts/true-volumetric-139879553
 * * Scatterer (highly recommended for much nicer atmosphere rendering) https://github.com/LGhassen/Scatterer/releases (a more up to date scatterer is also included in blackrack's patreon version of EVE Volumetrics)
 * Distant Object Enhancement. https://forum.kerbalspaceprogram.com/topic/205063-ksp-131-distant-object-enhancement-doe-l-2217-2026-0626/
-* Kerbal Renamer (for authentic Hearthian names!) https://github.com/KSP-RO/KerbalRenamer/
+* Kerbal Renamer (for authentic Hearthian names!) https://github.com/KSP-RO/KerbalRenamer/releases/
 * Texture Replacer (highly recommended for custom-built skybox) https://github.com/ducakar/TextureReplacer/releases/
 
 **System Layout**
@@ -39,7 +39,8 @@ In the future there will be dedicated support configs for RSS Scale, Stock KSP S
 
 **F.A.Q.**
 * Are there Outer Wilds spoilers?
-    * The mod does have some minor spoilers for Outer Wilds, but nothing major.
+    * The mod does have some spoilers for Outer Wilds. It probably won't ruin your experience of the original game... but it might, so if I were you I would play through the entirety of Outer Wilds first. If you do choose to play the KSP mod and only after that play Outer Wilds, I'd be curious to know your experience.
+    * There are virtually no references to its DLC (at least not yet) so if you haven't played Echoes of the Eye yet but you want to, you will be safe to play this KSP mod.
 * Is the QM or the 6th Location implemented?
     * they are both post-1.0 stretch goals, and will _not_ have the game mechanic that makes it so weird and interesting in the original game.
 * What about the Stranger?
