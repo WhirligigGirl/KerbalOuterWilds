@@ -1,5 +1,8 @@
 # Minor spoiler warning for Outer Wilds:
 
+# Mystery Goo
+* Basically just a set of simple sugars and nutrients, designed to test for life on planetary surfaces.
+
 # Universe
 * 35 billion years old
 * Heading for Big Rip in 60 million years. Distant galaxies already redshifted away.

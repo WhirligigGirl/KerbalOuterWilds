@@ -1,0 +1,134 @@
+@EXPERIMENT_DEFINITION:HAS[#id[crewReport]]:FOR[TheKerbalWilds]
+{
+	@RESULTS
+	{
+		@Body[]
+		{
+			Values
+			{
+			}
+		}
+	}
+}
+@EXPERIMENT_DEFINITION:HAS[#id[evaReport]]:FOR[TheKerbalWilds]
+{
+	@RESULTS
+	{
+		@Body[]
+		{
+			Values
+			{
+			}
+		}
+	}
+}
+@EXPERIMENT_DEFINITION:HAS[#id[mysteryGoo]]:FOR[TheKerbalWilds]
+{
+	@RESULTS
+	{
+		@Body[]
+		{
+			Values
+			{
+			}
+		}
+	}
+}
+@EXPERIMENT_DEFINITION:HAS[#id[surfaceSample]]:FOR[TheKerbalWilds]
+{
+	@RESULTS
+	{
+		@Body[]
+		{
+			Values
+			{
+			}
+		}
+	}
+}
+@EXPERIMENT_DEFINITION:HAS[#id[mobileMaterialsLab]]:FOR[TheKerbalWilds]
+{
+	@RESULTS
+	{
+		@Body[]
+		{
+			Values
+			{
+			}
+		}
+	}
+}
+@EXPERIMENT_DEFINITION:HAS[#id[magnetometer]]:FOR[TheKerbalWilds]
+{
+	@RESULTS
+	{
+		@Body[]
+		{
+			Values
+			{
+			}
+		}
+	}
+}
+@EXPERIMENT_DEFINITION:HAS[#id[temperatureScan]]:FOR[TheKerbalWilds]
+{
+	@RESULTS
+	{
+		@Body[]
+		{
+			Values
+			{
+			}
+		}
+	}
+}
+@EXPERIMENT_DEFINITION:HAS[#id[barometerScan]]:FOR[TheKerbalWilds]
+{
+	@RESULTS
+	{
+		@Body[]
+		{
+			Values
+			{
+			}
+		}
+	}
+}
+@EXPERIMENT_DEFINITION:HAS[#id[seismicScan]]:FOR[TheKerbalWilds]
+{
+	@RESULTS
+	{
+		@Body[]
+		{
+			Values
+			{
+			}
+		}
+	}
+}
+@EXPERIMENT_DEFINITION:HAS[#id[gravityScan]]:FOR[TheKerbalWilds]
+{
+	@RESULTS
+	{
+		@Body[]
+		{
+			Values
+			{
+			}
+		}
+	}
+}
+@EXPERIMENT_DEFINITION:HAS[#id[atmosphereAnalysis]]:FOR[TheKerbalWilds]
+{
+	@RESULTS
+	{
+		@Body[]
+		{
+			Values
+			{
+			}
+		}
+	}
+}
+//IR telescope handled in its own file.
+//I don't want to do asteroid samples.
