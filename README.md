@@ -8,17 +8,17 @@ In the future there will be dedicated support configs for RSS Scale, Stock KSP S
 **Still in WIP.**
 
 **Mod Prerequisites**
-* Kopernicus and all of its prerequisites. https://github.com/Kopernicus/Kopernicus/releases
+* Kopernicus and all of its prerequisites. https://github.com/Kopernicus/Kopernicus/releases (Required to load planet mods.)
     * HarmonyKSP. https://github.com/KSPModdingLibs/HarmonyKSP/releases
     * KSPTextureLoader. https://github.com/Phantomical/KSPTextureLoader/releases
     * ModularFlightIntegrator. https://ksp.sarbian.com/jenkins/job/ModularFlightIntegrator/
     * ModuleManager https://ksp.sarbian.com/jenkins/job/ModuleManager/ (which you probably already have anyway)
-* Kopernicus Expansion. https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/
+* Kopernicus Expansion. https://github.com/VabienArt/KopernicusExpansion-Continueder/releases/ (Required for RegionalPQS)
 
 **Bundled Mods**
-* VertexColorMapEmissive by Lt. Duckweed. https://github.com/jamespglaze/VertexColorMapEmissive
-* Scientific Revolution by StollD. https://github.com/StollD/SciRev
-* VertexMitchellNetravaliHeightmap. https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap
+* VertexColorMapEmissive by Lt. Duckweed. https://github.com/jamespglaze/VertexColorMapEmissive (Required for Hollow's Lantern)
+* Scientific Revolution by StollD. https://github.com/StollD/SciRev (Required for science definitions.)
+* VertexMitchellNetravaliHeightmap. https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap (Required for some planet heightmaps)
 
 **Supported Mods**
 * Principia (highly recommended for realistic orbits around the Hourglass Twins and Hollow's Lantern, as well as axial tilt.) https://github.com/mockingbirdnest/Principia
