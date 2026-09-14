@@ -70,6 +70,14 @@
 * Trees: PVC plastic instead of cellulose.
 * Clouds: Ecosystem of photosynthesizing microbes in the clouds give it its greenish color.
 
+# The Interloper
+* captured asteroid on retrograde orbit.
+* Includes traces of radioisotopes that weren't even known to be found in nature.
+* Radio-dating implies that it is less than 6 billion years old.
+* Surface weathering implies it has been in its orbit for less than 500,000 years.
+* The rounded side has a hotspot due to always facing the Sun at perihelion.
+* The spiky side is a result of catastrophic structural collapse.
+
 # MAJOR SPOILER WARNING FOR OUTER WILDS AND ECHOES OF THE EYE BELOW THIS LINE.
 ## You've probably heard it a million times, but you should really play the game before seeing any spoilers.
 ------------------
