@@ -75,7 +75,8 @@ A system replacer planet mod for Kerbal Space Program heavily inspired by the so
     * If you want to contribute a ScaledDecorator comet tail, please do get in touch, I would massively appreciate it.
 	
 **License**
-All Rights Reserved, Copyright Luna Rose Brannon (Whirligig Girl) 2026
+Configs (.cfg files): CC-BY 4.0
+Art assets: All Rights Reserved, Copyright Luna Rose Brannon (Whirligig Girl) 2026
 
 <img width="726" height="737" alt="image" src="https://github.com/user-attachments/assets/b0a15fe5-ce2e-4384-ad4d-c2914aa93cb1" />
 
