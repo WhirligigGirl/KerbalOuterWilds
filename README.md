@@ -73,6 +73,9 @@ A system replacer planet mod for Kerbal Space Program heavily inspired by the so
 * Where's the Interloper's tail?
     * This is one of the biggest flaws in the mod at present. I don't have the Unity experience required to use ScaledDecorator. I asked R-T-B about adding stock comet FX to celestial bodies, and they said they would look into it.
     * If you want to contribute a ScaledDecorator comet tail, please do get in touch, I would massively appreciate it.
+	
+**License**
+All Rights Reserved, Copyright Luna Rose Brannon (Whirligig Girl) 2026
 
 <img width="726" height="737" alt="image" src="https://github.com/user-attachments/assets/b0a15fe5-ce2e-4384-ad4d-c2914aa93cb1" />
 
