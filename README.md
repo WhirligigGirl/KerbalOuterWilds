@@ -26,6 +26,11 @@ A system replacer planet mod for Kerbal Space Program heavily inspired by the so
 * Kerbal Renamer (for authentic Hearthian names!) https://github.com/KSP-RO/KerbalRenamer/releases/
 * Texture Replacer (highly recommended for custom-built skybox) https://github.com/ducakar/TextureReplacer/releases/
     * If you want only the gray Hearthian skin and no green Kerbals, you will have to manually remove the default TR Kerbal hairstyle skins in GameData/TextureReplacer/Skins/TR.
+ 
+**Incompatible Mods** - Uninstall these mods before using!
+* Sigma Dimensions is **not** compatible, due to it not handling VertexMitchellNetravaliHeightMap and a few other things correctly.
+* Parallax is **not** compatible.
+* Any other planet mods are probably incompatible, especially other system replacers.
 
 **System Layout**
 * Sun: A K8IV Subgiant, just on the cusp of evolving into a red giant.
