@@ -17,7 +17,8 @@ A system replacer planet mod for Kerbal Space Program heavily inspired by the so
 * VertexMitchellNetravaliHeightmap. https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap (Required for some planet heightmaps)
 
 **Supported Mods**
-* Principia (highly recommended for realistic orbits around the Hourglass Twins and Hollow's Lantern, as well as axial tilt.) https://github.com/mockingbirdnest/Principia
+* Principia (highly recommended for realistic orbits around the Hourglass Twins and Hollow's Lantern, as well as axial tilt for a few bodies.) https://github.com/mockingbirdnest/Principia
+* CustomAsteroids (highly recommended for asteroid spawning--without it, no asteroids will spawn. With it, asteroids will spawn in a few customized groupings, *and a cometary tail will be generated for the Interloper!*) https://github.com/Starstrider42/Custom-Asteroids/releases/
 * EVE Volumetrics Release-5 (Volumetric clouds for almost every planet! Note: Release-3 is _not_ (yet?) supported!) https://www.patreon.com/blackrack/posts/true-volumetric-139879553
     * For this, you MUST_ install EnvironmentalVisualEnhancements, StockVolumetricClouds, and Scatterer. 
 	* You must _NOT_ install StockScattererConfigs.
