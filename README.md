@@ -77,7 +77,8 @@ A system replacer planet mod for Kerbal Space Program heavily inspired by the so
 * Will there be alien structures, stations, or spacecrafts?
     * As a post-1.0 stretch goal, _maybe_. But my feeling is that a KSP mod will never approach the depth of narrative storytelling possible in Outer Wilds, so I won't be attempting to weave an intricate narrative. Maybe a few structures that gesture towards the story. Honestly one problem is I'm just not that good at modelling buildings, and I'm not sure how I'd pull off the specific architectural styling shown in the game.
 * Where's the Interloper's tail?
-    * This is one of the biggest flaws in the mod at present. I don't have the Unity experience required to use ScaledDecorator. I asked R-T-B about adding stock comet FX to celestial bodies, and they said they would look into it.
+	* Since v1.0.3 the Interloper's tail has been provided in the kind of hacky way of putting a stock comet part in orbit around the Interloper, using CustomAsteroids. Though in future I hope to have a less janky solution.
+    * I don't have the Unity experience required to use ScaledDecorator. I asked R-T-B about adding stock comet FX to celestial bodies, and they said they would look into it.
     * If you want to contribute a ScaledDecorator comet tail, please do get in touch, I would massively appreciate it.
 	
 **License**
