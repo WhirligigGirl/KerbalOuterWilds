@@ -18,10 +18,10 @@ A system replacer planet mod for Kerbal Space Program heavily inspired by the so
 
 **Supported Mods**
 * Principia (highly recommended for realistic orbits around the Hourglass Twins and Hollow's Lantern, as well as axial tilt for a few bodies.) https://github.com/mockingbirdnest/Principia
-* CustomAsteroids (highly recommended for asteroid spawning--without it, no asteroids will spawn. With it, asteroids will spawn in a few customized groupings, *and a cometary tail will be generated for the Interloper!*) https://github.com/Starstrider42/Custom-Asteroids/releases/
+* CustomAsteroids (highly recommended for asteroid spawning. Without it, no asteroids will spawn. With it, asteroids will spawn in a few customized groupings, *and a cometary tail will be generated for the Interloper!*) https://github.com/Starstrider42/Custom-Asteroids/releases/
 * EVE Volumetrics Release-5 (Volumetric clouds for almost every planet! Note: Release-3 is _not_ (yet?) supported!) https://www.patreon.com/blackrack/posts/true-volumetric-139879553
-    * For this, you MUST_ install EnvironmentalVisualEnhancements, StockVolumetricClouds, and Scatterer. 
-	* You must _NOT_ install StockScattererConfigs.
+    * For this, you _MUST_ install EnvironmentalVisualEnhancements, StockVolumetricClouds, and Scatterer. 
+	* Do not install StockScattererConfigs unless you are using SystemType = Interstellar (more on that below)
 * Scatterer (highly recommended for much nicer atmosphere rendering) https://github.com/LGhassen/Scatterer/releases (a more up to date scatterer is also included in Blackrack's Patreon version of EVE Volumetrics)
 * Distant Object Enhancement. (Although if you also have scatterer, turn off the planet flares and just use the skybox dimming.) https://forum.kerbalspaceprogram.com/topic/205063-ksp-131-distant-object-enhancement-doe-l-2217-2026-0626/
 * Kerbal Renamer (for authentic Hearthian names!) https://github.com/KSP-RO/KerbalRenamer/releases/
@@ -51,6 +51,17 @@ A system replacer planet mod for Kerbal Space Program heavily inspired by the so
 * Supported options are RSS (1:1), Quarter (1:4), KSP (1:10), and Toy (1:120).
 * The mod was built at Quarter scale and so works best there, but KSP scale should work fine. The other two can be a little finicky.
 * SigmaDimensions is NOT compatible with this mod.
+
+**Interstellar Mode Notes**
+* In GameData/KerbalWilds/SETTINGS.cfg, you can set SystemType to either "Replacer" (the default), or "Interstellar".
+* "Interstellar" will preserve the stock Kerbol system and add Kerbal Wilds as a new exoplanetary system.
+* "Replacer" will replace the stock Kerbol system with the Kerbal Wilds system, replacing Kerbin with Timber Hearth.
+* There is currently no wormhole.
+* Distance is comparable to Kcalbeloh, but in a different direction.
+* Science values and science definitions all assume you are using "Replacer" mode.
+* Scatterer, EVE, and CustomAsteroids are all correctly set up to use SystemType = Interstellar.
+* You should install StockScattererConfigs only if you are using SystemType = Interstellar, but it should still work even if you use SystemType = Replacer.
+* There is also a NamingScheme setting that allows you to choose between default Hearthian names and descriptions, systematic exoplanet names, or speculative Nomai names and descriptions.
 
 **Science Notes**
 * The Infrared Telescope can only be used in high orbit. It also has a new Infrared Astronomy science experiment which requires crew on the vessel in order to use.
