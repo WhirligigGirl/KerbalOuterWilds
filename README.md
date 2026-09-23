@@ -47,15 +47,16 @@ A system replacer planet mod for Kerbal Space Program heavily inspired by the so
 * The Interloper: An interstellar comet on an eccentric retrograde orbit.
 
 **Scale Notes**
-* In GameData/KerbalWilds/SETTINGS.cfg, you can change the scale of the solar system.
+* In GameData/TheKerbalWilds/SETTINGS.cfg, you can change the scale of the solar system.
 * Supported options are RSS (1:1), Quarter (1:4), KSP (1:10), and Toy (1:120).
 * The mod was built at Quarter scale and so works best there, but KSP scale should work fine. The other two can be a little finicky.
 * SigmaDimensions is NOT compatible with this mod.
 
 **Interstellar Mode Notes**
-* In GameData/KerbalWilds/SETTINGS.cfg, you can set SystemType to either "Replacer" (the default), or "Interstellar".
+* In GameData/TheKerbalWilds/SETTINGS.cfg, you can set SystemType to either "Replacer" (the default), or "Interstellar".
 * "Interstellar" will preserve the stock Kerbol system and add Kerbal Wilds as a new exoplanetary system.
 * "Replacer" will replace the stock Kerbol system with the Kerbal Wilds system, replacing Kerbin with Timber Hearth.
+* Scale setting must be set to "KSP" when using SystemType = Interstellar.
 * There is currently no wormhole.
 * Distance is comparable to Kcalbeloh, but in a different direction.
 * Science values and science definitions all assume you are using "Replacer" mode.
@@ -66,6 +67,7 @@ A system replacer planet mod for Kerbal Space Program heavily inspired by the so
 **Science Notes**
 * The Infrared Telescope can only be used in high orbit. It also has a new Infrared Astronomy science experiment which requires crew on the vessel in order to use.
 * The Mystery Goo has been turned into an astrobiology experiment, and can ONLY be used inside atmospheres.
+* Changes to the above stock experiments are only done in SystemType = Replacer mode.
 * There is less science available overall in this system, so you will likely have to visit multiple biomes on each planet.
 * There are science definitions for each planet which explore some of the interesting properties of each planet. Read them!
 * Mod science definition support TBD.
