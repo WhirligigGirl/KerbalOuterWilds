@@ -27,6 +27,7 @@ A system replacer planet mod for Kerbal Space Program heavily inspired by the so
 * Kerbal Renamer (for authentic Hearthian names!) https://github.com/KSP-RO/KerbalRenamer/releases/
 * Texture Replacer (highly recommended for custom-built skybox) https://github.com/ducakar/TextureReplacer/releases/
     * If you want only the gray Hearthian skin and no green Kerbals, you will have to manually remove the default TR Kerbal hairstyle skins in GameData/TextureReplacer/Skins/TR.
+* Singularity (for optional wormholes) https://github.com/LGhassen/Singularity/releases
  
 **Incompatible Mods** - Uninstall these mods before using!
 * Sigma Dimensions is **not** compatible, due to it not handling VertexMitchellNetravaliHeightMap and a few other things correctly.
@@ -58,12 +59,15 @@ A system replacer planet mod for Kerbal Space Program heavily inspired by the so
 * "Replacer" will replace the stock Kerbol system with the Kerbal Wilds system, replacing Kerbin with Timber Hearth.
 * Scale setting must be set to "KSP" when using SystemType = Interstellar.
 * Principia is only supported by SystemType = Replacer. Uninstall it before switching to SystemType = Interstellar.
-* There is currently no wormhole.
 * Distance is comparable to Kcalbeloh, but in a different direction.
 * Science values and science definitions all assume you are using "Replacer" mode.
 * Scatterer, EVE, and CustomAsteroids are all correctly set up to use SystemType = Interstellar.
 * You should install StockScattererConfigs only if you are using SystemType = Interstellar, but it should still work even if you use SystemType = Replacer.
 * There is also a NamingScheme setting that allows you to choose between default Hearthian names and descriptions, systematic exoplanet names, or speculative Nomai names and descriptions.
+* There is also an optional setting to enable wormholes.
+	* Adds two pairs of one-way black hole->white hole teleporters, one to go from Kerbol's Asteroid Belt to the upper focus of Interloper's orbit ("Apofocus" for want of a better term), and one to go from eccentric Brittle Hollow orbit to high Duna Orbit.
+	* This setting also works for "SystemType = Replacer," keeping just one pair of wormholes. (Brittle Hollow to Interloper's Apofocus).
+	* The Interloper's Apofocus is a stationary point in space; it will take a lot of delta-v to reach orbital velocity from that position. An additional setting exists to place the white hole in a circular orbit at that altitude instead.
 
 **Science Notes**
 * The Infrared Telescope can only be used in high orbit. It also has a new Infrared Astronomy science experiment which requires crew on the vessel in order to use.
